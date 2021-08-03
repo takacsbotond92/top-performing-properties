@@ -1,323 +1,52 @@
 
 {
-   "theme":{
-      "okkerYellow":"#e7bf57",
-      "lightYellow":"#FFFF99",
-      "primaryLightActive":"#00FF83",
-      "primaryActiveBg":"#33b3a6",
-      "primaryActiveBgOpaq":"#ECF8f9",
-      "primaryInactiveBg":"#ffffff",
-      "primaryTextColor":"#000000",
-      "primarySubTextColor":"#bdc6cf",
-      "primaryGreyedBg":"#f8fbfd",
-      "primaryGradient":"#000000",
-      "mainBg":"#f8fbfd",
-      "mainBgShade":"#d8f1f3",
-      "mainColor":"#cdd8de",
-      "tealBlueBg":"#5AC8FA",
-      "purpleBg":"#5856D6",
-      "secondary":"#8F0CE8",
-      "greenDark":"#00B233",
-      "secondary3":"#00FF48",
-      "grey1":"#43484d",
-      "grey2":"#5e6977",
-      "grey3":"#86939e",
-      "grey4":"#bdc6cf",
-      "grey5":"#e1e8ee",
-      "grey6":"#eaeaea",
-      "white":"#ffffff",
-      "dkGreyBg":"#232323",
-      "dkGrey2Bg":"rgba(47,44,60,1)",
-      "redBg":"#F5554D",
-      "red2Bg":"#B46486",
-      "red3Bg":"#FFCFCF",
-      "orange":"#FF9500",
-      "orange1":"#ffcb6b",
-      "azureDark":"#478b9",
-      "greyOutline":"#cbd2d9",
-      "transparent":"transparent",
-      "positions":{
-         "global":"row"
-      },
-      "logo":{
-         "spinningType":"infinite 5s linear",
-         "url":"https://visuel3d-secure.citroen.com/V3DImage.ashx?client=SOLVCG&ratio=1&format=png&quality=85&width=350&height=100%&back=0&view=001&version=1CH5CLNNPKB0A0E2&color=0MP00NWP&trim=0P8L0RFT&opt1=WL5A&opt2=YR07"
-      },
-      "lang":"fr"
+   "property-1":{
+      "title":"Fountain house",
+      "address":"South Parade, Leeds, LS1 5QX",
+      "enquiries":"120",
+      "average":"132 enquiries",
+      "img":"https://d39qj8qlyfrchd.cloudfront.net/images/20210511/1-92072637lxlarge-1100x0.jpg"
    },
-   "autocomplete":[
-      "Brighton",
-      "Bridgend",
-      "Cambridge",
-      "Canterbury",
-      "London",
-      "Leeds",
-      "Manchester",
-      "Wells",
-      "York"
-   ],
-  "dashboard": {
-    "filters": {
-      "tenures": [
-        {
-          "value": "to let",
-          "viewValue": "To let",
-          "selected": false
-        },
-        {
-          "value": "assignment",
-          "viewValue": "Assignment",
-          "selected": false
-        },
-        {
-          "value": "under offer",
-          "viewValue": "Under offer",
-          "selected": false
-        }
-      ],
-      "properties": [
-        {
-          "value": "industrial",
-          "viewValue": "Industrial",
-          "selected": false
-        },
-        {
-          "value": "retail",
-          "viewValue": "Retail",
-          "selected": true
-        },
-        {
-          "value": "licensed & leisure",
-          "viewValue": "Licensed & Leisure",
-          "selected": false
-        },
-        {
-          "value": "offices",
-          "viewValue": "Offices",
-          "selected": false
-        },
-        {
-          "value": "commercial",
-          "viewValue": "Commercial land",
-          "selected": false
-        },
-        {
-          "value": "residential",
-          "viewValue": "Residential",
-          "selected": false
-        },
-        {
-          "value": "others",
-          "viewValue": "Others",
-          "selected": false
-        }
-      ],
-      "branches": [
-        {
-          "value": "branch-1",
-          "viewValue": "Branch type 1",
-          "selected": false
-        },
-        {
-          "value": "branch-2",
-          "viewValue": "Branch type 2",
-          "selected": false
-        },
-        {
-          "value": "branch-3",
-          "viewValue": "Branch type 3",
-          "selected": true
-        }
-      ],
-      "agents": [
-        {
-          "value": "Tim Sterling",
-          "viewValue": "Tim Sterling",
-          "selected": true
-        },
-        {
-          "value": "John Doe",
-          "viewValue": "John Doe",
-          "selected": false
-        },
-        {
-          "value": "Caroline Stone",
-          "viewValue": "Caroline Stone",
-          "selected": false
-        }
-      ]
-    },
-    "filters2": [
-      {
-        "value": "tenure-1",
-        "viewValue": "Tenure 1",
-        "selected": false,
-        "type": "tenure"
-      },
-      {
-        "value": "tenure-2",
-        "viewValue": "Tenure 2",
-        "selected": false,
-        "type": "tenure"
-      },
-      {
-        "value": "tenure-3",
-        "viewValue": "Tenure 3",
-        "selected": false,
-        "type": "tenure"
-      },
-      {
-        "value": "tenure-4",
-        "viewValue": "Tenure 4",
-        "selected": false,
-        "type": "tenure"
-      },
-      {
-        "value": "tenure-5",
-        "viewValue": "Tenure 5",
-        "selected": false,
-        "type": "tenure"
-      },
-      {
-        "value": "tenure-6",
-        "viewValue": "Tenure 6",
-        "selected": false,
-        "type": "tenure"
-      },
-      {
-        "value": "tenure-7",
-        "viewValue": "Tenure 7",
-        "selected": true,
-        "type": "tenure"
-      },
-      {
-        "value": "tenure-8",
-        "viewValue": "Tenure 8",
-        "selected": false,
-        "type": "tenure"
-      },
-      {
-        "value": "property-1",
-        "viewValue": "Property type 1",
-        "selected": false,
-        "type": "property"
-      },
-      {
-        "value": "property-2",
-        "viewValue": "Property type 2",
-        "selected": true,
-        "type": "property"
-      },
-      {
-        "value": "property-3",
-        "viewValue": "Property type 3",
-        "selected": false,
-        "type": "property"
-      },
-      {
-        "value": "branch-1",
-        "viewValue": "Branch type 1",
-        "selected": false,
-        "type": "branch"
-      },
-      {
-        "value": "branch-2",
-        "viewValue": "Branch type 2",
-        "selected": false,
-        "type": "branch"
-      },
-      {
-        "value": "branch-3",
-        "viewValue": "Branch type 3",
-        "selected": true,
-        "type": "branch"
-      },
-      {
-        "value": "agent-0",
-        "viewValue": "Agent type 1",
-        "selected": true,
-        "type": "agent"
-      },
-      {
-        "value": "agent-1",
-        "viewValue": "Agent type 2",
-        "selected": false,
-        "type": "agent"
-      },
-      {
-        "value": "agent-2",
-        "viewValue": "Agent type 3",
-        "selected": false,
-        "type": "agent"
-      }
-    ],
-    "summaryCards": [
-      {
-        "label": "Total enquiries",
-        "total": 2313,
-        "active": true,
-        "type": "enquiry"
-      },
-      {
-        "label": "Brochure downloads",
-        "total": 47185,
-        "active": false,
-        "type": "brochure"
-      },
-      {
-        "label": "Advert views",
-        "total": 94235,
-        "active": false,
-        "type": "advert"
-      },
-      {
-        "label": "Searches appeared in",
-        "total": 450092,
-        "active": false,
-        "type": "searches"
-      },
-      {
-        "label": "Available properties",
-        "total": 81395,
-        "active": false,
-        "type": "availableProp"
-      }
-    ],
-    "lineChart": {
-      "dataSet": [
-        {
-          "data": [ 25, 78, 25, 121, 90],
-          "label": "Last 30 days"
-        },
-        {
-          "data": [5, 58, 5, 85, 130],
-          "label": "Previous period"
-        }
-      ],
-      "chartLabels": [
-        "",
-        "31 October 20",
-        "7 November 20",
-        "14 November 20",
-        "21 November 20"
-      ]
-    },
-    "stackedChart": {
-      "chartLabels": [
-        "Sector industrial",
-        "Retail",
-        "Licensed & leisure",
-        "Offices",
-        "Commercial land",
-        "Residential",
-        "Others"
-      ],
-      "chartData": [
-        { "data": [250, 300, 400, 180, 350, 450, 100], "id": "sid-1"},
-        { "data": [370, 290, 250, 600, 320, 170, 480], "id": "sid-2"},
-        { "data": [100, 250, 450, 550, 450, 550, 150], "id": "sid-3"},
-        { "data": [340, 100, 400, 600, 250, 250, 300], "id": "sid-4"}
-      ]
-    }
-  }
+   "property-2":{
+      "title":"Fountain house",
+      "address":"South Parade, Leeds, LS1 5QX",
+      "enquiries":"120",
+      "average":"1132 enquiries",
+      "img":"https://d39qj8qlyfrchd.cloudfront.net/images/20190905/1-68185855lxlarge-1100x0.jpg"
+   },
+   "property-3":{
+      "title":"Fountain house",
+      "address":"South Parade, Leeds, LS1 5QX",
+      "enquiries":"150",
+      "average":"432 enquiries",
+      "img":"https://d39qj8qlyfrchd.cloudfront.net/images/20210616/1-93213051lxlarge-1100x0.jpg"
+   },
+   "property-4":{
+      "title":"Fountain house",
+      "address":"South Parade, Leeds, LS1 5QX",
+      "enquiries":"234",
+      "average":"242 enquiries",
+      "img":"https://d39qj8qlyfrchd.cloudfront.net/images/20210803/1-94746925lxlarge-1100x0.jpg"
+   },
+   "property-5":{
+      "title":"Fountain house",
+      "address":"South Parade, Leeds, LS1 5QX",
+      "enquiries":"120",
+      "average":"132 enquiries",
+      "img":"https://d39qj8qlyfrchd.cloudfront.net/images/20210516/1-92240699lxlarge-1100x0.jpg"
+   },
+   "property-6":{
+      "title":"Fountain house",
+      "address":"South Parade, Leeds, LS1 5QX",
+      "enquiries":"120",
+      "average":"132 enquiries",
+      "img":"https://d39qj8qlyfrchd.cloudfront.net/images/20210803/1-94746609lxlarge-1100x0.jpg"
+   },
+   "property-7":{
+      "title":"Fountain house",
+      "address":"South Parade, Leeds, LS1 5QX",
+      "enquiries":"120",
+      "average":"132 enquiries",
+      "img":"https://d39qj8qlyfrchd.cloudfront.net/images/20210803/1-94746621lxlarge-1100x0.jpg"
+   }
 }
