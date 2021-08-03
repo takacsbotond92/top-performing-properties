@@ -1,6 +1,4 @@
-
-{
-   "properties":{
+"properties":{
       "property-1":{
          "title":"Fountain house",
          "address":"South Parade, Leeds, LS1 5QX",
@@ -51,4 +49,3 @@
          "img":"https://d39qj8qlyfrchd.cloudfront.net/images/20210803/1-94746621lxlarge-1100x0.jpg"
       }
    }
-}
