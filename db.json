@@ -1,52 +1,54 @@
 
 {
-   "property-1":{
-      "title":"Fountain house",
-      "address":"South Parade, Leeds, LS1 5QX",
-      "enquiries":"120",
-      "average":"132 enquiries",
-      "img":"https://d39qj8qlyfrchd.cloudfront.net/images/20210511/1-92072637lxlarge-1100x0.jpg"
-   },
-   "property-2":{
-      "title":"Fountain house",
-      "address":"South Parade, Leeds, LS1 5QX",
-      "enquiries":"120",
-      "average":"1132 enquiries",
-      "img":"https://d39qj8qlyfrchd.cloudfront.net/images/20190905/1-68185855lxlarge-1100x0.jpg"
-   },
-   "property-3":{
-      "title":"Fountain house",
-      "address":"South Parade, Leeds, LS1 5QX",
-      "enquiries":"150",
-      "average":"432 enquiries",
-      "img":"https://d39qj8qlyfrchd.cloudfront.net/images/20210616/1-93213051lxlarge-1100x0.jpg"
-   },
-   "property-4":{
-      "title":"Fountain house",
-      "address":"South Parade, Leeds, LS1 5QX",
-      "enquiries":"234",
-      "average":"242 enquiries",
-      "img":"https://d39qj8qlyfrchd.cloudfront.net/images/20210803/1-94746925lxlarge-1100x0.jpg"
-   },
-   "property-5":{
-      "title":"Fountain house",
-      "address":"South Parade, Leeds, LS1 5QX",
-      "enquiries":"120",
-      "average":"132 enquiries",
-      "img":"https://d39qj8qlyfrchd.cloudfront.net/images/20210516/1-92240699lxlarge-1100x0.jpg"
-   },
-   "property-6":{
-      "title":"Fountain house",
-      "address":"South Parade, Leeds, LS1 5QX",
-      "enquiries":"120",
-      "average":"132 enquiries",
-      "img":"https://d39qj8qlyfrchd.cloudfront.net/images/20210803/1-94746609lxlarge-1100x0.jpg"
-   },
-   "property-7":{
-      "title":"Fountain house",
-      "address":"South Parade, Leeds, LS1 5QX",
-      "enquiries":"120",
-      "average":"132 enquiries",
-      "img":"https://d39qj8qlyfrchd.cloudfront.net/images/20210803/1-94746621lxlarge-1100x0.jpg"
+   "properties":{
+      "property-1":{
+         "title":"Fountain house",
+         "address":"South Parade, Leeds, LS1 5QX",
+         "enquiries":"120",
+         "average":"132 enquiries",
+         "img":"https://d39qj8qlyfrchd.cloudfront.net/images/20210511/1-92072637lxlarge-1100x0.jpg"
+      },
+      "property-2":{
+         "title":"Fountain house",
+         "address":"South Parade, Leeds, LS1 5QX",
+         "enquiries":"120",
+         "average":"1132 enquiries",
+         "img":"https://d39qj8qlyfrchd.cloudfront.net/images/20190905/1-68185855lxlarge-1100x0.jpg"
+      },
+      "property-3":{
+         "title":"Fountain house",
+         "address":"South Parade, Leeds, LS1 5QX",
+         "enquiries":"150",
+         "average":"432 enquiries",
+         "img":"https://d39qj8qlyfrchd.cloudfront.net/images/20210616/1-93213051lxlarge-1100x0.jpg"
+      },
+      "property-4":{
+         "title":"Fountain house",
+         "address":"South Parade, Leeds, LS1 5QX",
+         "enquiries":"234",
+         "average":"242 enquiries",
+         "img":"https://d39qj8qlyfrchd.cloudfront.net/images/20210803/1-94746925lxlarge-1100x0.jpg"
+      },
+      "property-5":{
+         "title":"Fountain house",
+         "address":"South Parade, Leeds, LS1 5QX",
+         "enquiries":"120",
+         "average":"132 enquiries",
+         "img":"https://d39qj8qlyfrchd.cloudfront.net/images/20210516/1-92240699lxlarge-1100x0.jpg"
+      },
+      "property-6":{
+         "title":"Fountain house",
+         "address":"South Parade, Leeds, LS1 5QX",
+         "enquiries":"120",
+         "average":"132 enquiries",
+         "img":"https://d39qj8qlyfrchd.cloudfront.net/images/20210803/1-94746609lxlarge-1100x0.jpg"
+      },
+      "property-7":{
+         "title":"Fountain house",
+         "address":"South Parade, Leeds, LS1 5QX",
+         "enquiries":"120",
+         "average":"132 enquiries",
+         "img":"https://d39qj8qlyfrchd.cloudfront.net/images/20210803/1-94746621lxlarge-1100x0.jpg"
+      }
    }
 }
